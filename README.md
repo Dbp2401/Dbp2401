@@ -1,7 +1,7 @@
 
 ## 🚀 Hello, I'm Dani!
 
-I'm hardworking, trustworthy, punctual, eager to learn, improve, and gain work experience.
+### I'm hardworking, trustworthy, punctual, eager to learn, improve, and gain work experience.
 
 
 
