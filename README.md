@@ -4,7 +4,6 @@
 I'm hardworking, trustworthy, punctual, eager to learn, improve, and gain work experience.
 
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbp2401&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/Dbp2401/github-readme-stats)[![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dbp2401&theme=transparent)](https://git.io/streak-stats)
 
 ## ⚙️ Frameworks
 
@@ -34,5 +33,15 @@ I'm hardworking, trustworthy, punctual, eager to learn, improve, and gain work e
 ![Espressif](https://img.shields.io/badge/Espressif-FF4F00?style=for-the-badge&logo=espressif&logoColor=white)
 
 
+## 💻 Stats
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dbp2401&layout=donut-vertical&theme=dark#gh-dark-mode-only)](https://github.com/Dbp2401/github-readme-stats)  [![GitHub Streak](https://github-readme-streak-stats.herokuapp.com?user=Dbp2401&theme=transparent)](https://git.io/streak-stats)
+![Dbp2401's GitHub stats](https://github-readme-stats.vercel.app/api?username=Dbp2401&show_icons=true&bg_color=DEG,1E1E1E,121212,0B0B0B)
+
+
+## 📨 Contact me:
+
+📩 Email: <a href="mailto:dbp24012003@gmail.com">dbp24012003@gmail.com</a><br/>
+📱 LinkedIn: <a href="https://www.linkedin.com/in/daniel-berzal-2588932b5/" target="_blank">Daniel Berzal</a><br/>
+🐙 GitHub: <a href="https://github.com/Dbp2401" target="_blank">Dbp2401</a>
 
